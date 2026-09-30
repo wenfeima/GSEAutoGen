@@ -1,0 +1,14 @@
+# WoW 插件源码统一用 LF 换行（游戏运行时按字节读，CRLF 会造成 diff 噪音）
+* text=auto eol=lf
+
+*.lua  text eol=lf
+*.toc  text eol=lf
+*.xml  text eol=lf
+*.md   text eol=lf
+*.py   text eol=lf
+
+# 二进制
+*.exe binary
+*.zip binary
+*.png binary
+*.jpg binary

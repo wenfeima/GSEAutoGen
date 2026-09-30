@@ -1,0 +1,15 @@
+# ---- 不入库 ----
+
+# 版本快照备份目录（历史留档用，不进仓库）
+备份/
+
+# 第三方插件数据（JustAC 的导出数据，非本项目产物；如需随仓库同步可去掉这几行）
+参考数据/JustAC数据备份/
+参考数据/SimcRotations_JustAC备份.lua
+
+# 操作系统垃圾文件
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*.log

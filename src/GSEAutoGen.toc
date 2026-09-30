@@ -1,0 +1,16 @@
+## Interface: 120100
+## Title: GSE 自动序列生成器
+## Notes: 根据专精、天赋（法术书）、急速与主动饰品自动生成 GSE 输出序列；支持官方 Assisted Combat 优先级后台学习（/ags learn）
+## Author: mawen
+## Version: 1.9.47
+## OptionalDeps: GSE
+## SavedVariables: GSEAutoGenDB
+## DefaultState: enabled
+
+Core.lua
+Data.lua
+Engine.lua
+Writer.lua
+Learner.lua
+UI.lua
+Bindings.xml

@@ -1,0 +1,8 @@
+<Bindings>
+  <Binding name="GSEAUTOGEN_GEN" header="GSEAutoGen">
+    GSEAutoGen_GenKeybind()
+  </Binding>
+  <Binding name="GSEAUTOGEN_LEARN" header="GSEAutoGen">
+    GSEAutoGen_LearnKeybind()
+  </Binding>
+</Bindings>

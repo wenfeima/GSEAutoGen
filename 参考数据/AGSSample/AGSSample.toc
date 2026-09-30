@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: AGS 官方优先级采样器
+## Notes: 采样 C_AssistedCombat.GetNextCastSpell() 的实时推荐，统计出官方真实的技能优先级，用于校正 GSEAutoGen 的模板排序。一次性调研工具，用完可删。
+## Author: mawen
+## Version: 1.0.0
+## DefaultState: enabled
+
+AGSSample.lua
